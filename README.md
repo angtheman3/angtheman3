@@ -39,28 +39,29 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 1</h4>
-      <a href="https://github.com/yourUsername/Project1">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+    <!-- Project 1: Pong AI -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Pong AI</h4>
+      <a href="https://github.com/angtheman3/PongAi">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Pong.png" alt="Pong AI" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 2</h4>
-      <a href="https://github.com/yourUsername/Project2">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+    <!-- Project 2: English to Spanish Translator -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">English to Spanish Translator</h4>
+      <a href="https://github.com/angtheman3/English-To-Spanish">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Translator.jpg" alt="English to Spanish Translator" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 3</h4>
-      <a href="https://github.com/yourUsername/Project3">
-        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Bird.png" alt="Project 3" width="100%"/>
+    <!-- Project 3: QuickDraw -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">QuickDraw</h4>
+      <a href="https://github.com/angtheman3/QuickDraw">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Bird.png" alt="QuickDraw" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
   </tr>
 </table>
-
-
 
 
 
@@ -68,51 +69,66 @@
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 1</h4>
-      <a href="https://github.com/yourUsername/Project1">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+    <!-- Time Series Prediction -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Time Series Prediction</h4>
+      <a href="https://github.com/angtheman3/TimeSeries_HEC">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Time.png" alt="Time Series Prediction" style="width: 220px; height: 150px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 2</h4>
-      <a href="https://github.com/yourUsername/Project2">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+    <!-- Bronx Weather Predictor -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Bronx Weather Predictor</h4>
+      <a href="https://github.com/angtheman3/Solar_Panel_Bronx">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Bronx.png" alt="Bronx Weather Predictor" style="width: 220px; height: 150px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 3</h4>
-      <a href="https://github.com/yourUsername/Project3">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+    <!-- CIFAR Dataset Object Predictor -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">CIFAR Dataset Object Predictor</h4>
+      <a href="https://github.com/angtheman3/OD-CIFAR">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/CIFAR.png" alt="CIFAR Dataset Object Predictor" style="width: 220px; height: 150px; object-fit: cover;"/>
+      </a>
+    </td>
+    <!-- Price Predictor Analysis -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Price Predictor Analysis</h4>
+      <a href="https://github.com/angtheman3/Price_Optimization">
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Price.png" alt="Price Predictor Analysis" style="width: 220px; height: 150px; object-fit: cover;"/>
       </a>
     </td>
   </tr>
 </table>
 
-<h3 align="left">📚 My p5 Art and Simulations</h3>
 
-<table style="border-collapse: collapse; width: 100%;">
+<h3 align="left"> My p5.js Simulations and Art </h3>
+
+<table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 1</h4>
+    <!-- Flocking Simulation -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Flocking Simulation</h4>
       <a href="https://github.com/yourUsername/Project1">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Flocking.png" alt="Flocking Simulation" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 2</h4>
+    <!-- Lorenz Attractor -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Lorenz Attractor</h4>
       <a href="https://github.com/yourUsername/Project2">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Lorenz.png" alt="Lorenz Attractor" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
-    <td align="center" width="33%" style="border: none;">
-      <h4>Project 3</h4>
+    <!-- Project 3 -->
+    <td align="center" style="border: none;">
+      <h4 style="margin: 10px 0;">Project 3</h4>
       <a href="https://github.com/yourUsername/Project3">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
   </tr>
 </table>
+
 
   <h3 align="left">What I'm Listening To 🎵</h3>
 
