@@ -1,4 +1,4 @@
-er<div style="background-color: #333; color: black; padding: 20;">
+<div style="background-color: #333; color: black; padding: 20;">
   <div align="center">
     <img height="400" src="https://wallpapercave.com/wp/JXuf38n.jpg" />
   </div>
