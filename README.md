@@ -1,4 +1,4 @@
-<div style="background-color: #333; color: black; padding: 20;">
+er<div style="background-color: #333; color: black; padding: 20;">
   <div align="center">
     <img height="400" src="https://wallpapercave.com/wp/JXuf38n.jpg" />
   </div>
@@ -35,7 +35,9 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
   </div>
 
-<h3 align="left">📚 My General Projects</h3>
+<h3 align="center">🔧 My Projects</h3>
+
+<h3 align="left">🤖 Machine Learning </h3>
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -65,7 +67,7 @@
 
 
 
-<h3 align="left">📚 My Data Science Related Stuff</h3>
+<h3 align="left">📊 Data Science </h3>
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -101,7 +103,7 @@
 </table>
 
 
-<h3 align="left"> My p5.js Simulations and Art </h3>
+<h3 align="left">🎨 Simulations and Art </h3>
 
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
