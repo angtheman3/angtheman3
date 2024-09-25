@@ -117,14 +117,14 @@
     <!-- Lorenz Attractor -->
     <td align="center" style="border: none;">
       <h4 style="margin: 10px 0;">Lorenz Attractor</h4>
-      <a href="https://github.com/yourUsername/Project2">
+      <a href="https://github.com/angtheman3/Lorenz">
         <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Lorenz.png" alt="Lorenz Attractor" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
     <!-- Project 3 -->
     <td align="center" style="border: none;">
       <h4 style="margin: 10px 0;">The Depressive Mind </h4>
-      <a href="https://github.com/yourUsername/Project3">
+      <a href="https://github.com/angtheman3/SadEspresso">
         <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Depression.png" alt="Project 3" style="width: 300px; height: 200px; object-fit: cover;"/>
       </a>
     </td>
