@@ -54,7 +54,7 @@
     <td align="center" width="33%" style="border: none;">
       <h4>Project 3</h4>
       <a href="https://github.com/yourUsername/Project3">
-        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+        <img src="https://github.com/angtheman3/angtheman3/blob/main/Assets/Bird.png" alt="Project 3" width="100%"/>
       </a>
     </td>
   </tr>
