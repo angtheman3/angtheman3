@@ -35,6 +35,85 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
   </div>
 
+<h3 align="left">📚 My General Projects</h3>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 1</h4>
+      <a href="https://github.com/yourUsername/Project1">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 2</h4>
+      <a href="https://github.com/yourUsername/Project2">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 3</h4>
+      <a href="https://github.com/yourUsername/Project3">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<h3 align="left">📚 My Data Science Related Stuff</h3>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 1</h4>
+      <a href="https://github.com/yourUsername/Project1">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 2</h4>
+      <a href="https://github.com/yourUsername/Project2">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 3</h4>
+      <a href="https://github.com/yourUsername/Project3">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">📚 My p5 Art and Simulations</h3>
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 1</h4>
+      <a href="https://github.com/yourUsername/Project1">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 1" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 2</h4>
+      <a href="https://github.com/yourUsername/Project2">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 2" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <h4>Project 3</h4>
+      <a href="https://github.com/yourUsername/Project3">
+        <img src="https://wallpapercave.com/wp/JXuf38n.jpg" alt="Project 3" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
   <h3 align="left">What I'm Listening To 🎵</h3>
 
   <h4 align="left">Sometimes, I listen to music excessively, but then there are phases where I don’t listen to any music at all! Here's what I've been enjoying recently:</h4>
